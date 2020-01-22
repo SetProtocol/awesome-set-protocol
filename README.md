@@ -80,6 +80,7 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 - [Frontier Wallet](https://frontierwallet.com/)
 - [TokenSets Dashboard](https://tokensets-dashboard.netlify.com/)
 - [Set Protocol: Token Market Caps](https://merkle-data.shinyapps.io/set_data/)
+- [DeFi Portfolio Tracker](https://portfolio.defiprime.com/)
 
 ## In Depth Analysis
 
