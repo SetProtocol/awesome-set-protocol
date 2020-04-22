@@ -39,11 +39,15 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 - [Automated Asset Management with Set Protocol](https://defitutorials.substack.com/p/automated-asset-management-with-set)
 - [Operating Set Protocol Manually](https://medium.com/set-protocol/operating-set-protocol-manually-bd14e917923f)
 - [How to Hire a Money Robot from Set](https://bankless.substack.com/p/how-to-hire-a-money-robot-from-set)
+- [How to build a portfolio like a crypto native](https://bankless.substack.com/p/how-to-build-a-portfolio-like-a-crypto-5c0)
 - [A Walk Through of Set with CEO Felix Feng](https://viabletoken.com/set/)
+- [Building a Retirement Fund Using Ethereum](https://medium.com/the-capital/building-a-retirement-fund-using-ethereum-dd931afb3093)
 - [How to compare returns between TokenSets](https://defitutorials.substack.com/p/how-to-compare-returns-between-tokensets)
 
 ## Blog Posts About Set
 
+- [Set: The Ultimate Money Lego](https://medium.com/set-protocol/sets-the-ultimate-money-lego-eacacdbb2d4f)
+- [DeFi is More Than Lending](https://medium.com/set-protocol/defi-is-more-than-lending-ede92a495aa5)
 - [Secret Sets: Run a hedge fund with Enigma and Set Protocol](https://blog.enigma.co/secret-sets-run-a-hedge-fund-with-enigma-and-set-protocol-b028bc86a7ba)
 - [4 Powerful Financial Products Possible with Set and bZx](https://medium.com/set-protocol/4-powerful-financial-products-possible-with-set-and-bzx-8efea08ee769)
 - [An analysis of Set Protocol&#39;s Growth](https://www.theblockcrypto.com/genesis/36980/an-analysis-of-set-protocols-growth) (paywalled)
@@ -69,17 +73,16 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 
 - [Scout Dashboard #1](https://scout.cool/setprotocol/mainnet/)
 - [Scout Dashboard #2](https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3)
-- [ROIs of Different Sets](https://defistrategies.com/#tokensets)
-- [DeFi Pulse page](https://defipulse.com/set-protocol)
+- [CoinGecko](https://www.coingecko.com/en/exchanges/token_sets)
+- [DeFi Pulse](https://defipulse.com/set-protocol)
+- [TokenViz](http://tokenviz.io/)
 - [Unspent](https://unspent.io/)
 - [Zerion](https://zerion.io/)
 - [Alethio](https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets)
 - [Etherscan](https://etherscan.io/tokens/label/set-protocol)
-- [MyDeFi (iOS)](https://apps.apple.com/us/app/mydefi/id1479703826?l=fr&amp;ls=1)
+- [MyDeFi (iOS)](https://apps.apple.com/us/app/mydefi/id1479703826)
 - [MyDeFi (Android)](https://play.google.com/store/apps/details?id=org.mydefi.mydefiapp)
 - [Frontier Wallet](https://frontierwallet.com/)
-- [TokenSets Dashboard](https://tokensets-dashboard.netlify.com/)
-- [Set Protocol: Token Market Caps](https://merkle-data.shinyapps.io/set_data/)
 
 ## In Depth Analysis
 
@@ -90,6 +93,9 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 
 ## Major Milestones and Events
 
+- [Introducing the LINK RSI Set on TokenSets](https://medium.com/set-protocol/introducing-the-link-rsi-set-on-tokensets-fe3b4fcacf94) | February 25th, 2020
+- [Strategic Partnership: Set Labs x DEXTF Protocol](https://medium.com/@DEXTF/strategic-partnership-set-labs-x-dextf-protocol-77c5c23a63c8) | January 30th, 2020
+- [Set Social Trading is Now Live on TokenSets](https://medium.com/set-protocol/set-social-trading-is-now-live-on-tokensets-c981b5e67c5f) | January 22nd, 2020
 - [Set Social Trading Announced](https://medium.com/set-protocol/introducing-set-social-trading-ddd259ec3103) | November 26th, 2019
 - [Ratio Trading Launched](https://medium.com/set-protocol/introducing-eth-btc-ratio-trading-on-tokensets-768dbb10a609) | November 21st, 2019
 - [Oscillator Strategies Launched](https://medium.com/set-protocol/introducing-oscillators-on-tokensets-85c095d27dbe) | November 15th, 2019
@@ -106,6 +112,7 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 
 ## Set in the Media
 
+- [Set Protocol launches social trading platform on Ethereum to connect users and expert traders](https://www.theblockcrypto.com/post/53609/set-protocol-launches-social-trading-platform-on-ethereum-to-connect-users-and-expert-traders) | The Block | January 21st, 2020
 - [A New Trading Strategy Wrapped in a Token Just Launched](https://thedefiant.substack.com/p/now-you-can-build-a-token-tracking) | The Defiant | September 12th, 2019
 - [Set Protocol Launches Ethereum Trading Strategy Bots](https://www.coindesk.com/set-protocol-launches-momentum-trading-strategy) | Coindesk | July 15th, 2019
 - [DeFi startup offers ETF analog allowing investors to trade on trends](https://www.theblockcrypto.com/post/31354/defi-startup-offers-etf-analog-allowing-investors-to-trade-on-trends) | The Block | July 15th, 2019
@@ -114,6 +121,8 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 ## AMAs and Interviews
 
 - [[AMA] Inje Yeo, Co-Founder of Set Protocol, Brian Weickmann, Technical Operations Lead, and Richard Liang, Growth Lead](https://messari.io/c/blog/ama-inje-yeo-co-founder-of-set-protocol-brian-weickmann-technical-operations-lead-and-richard-liang-growth-lead) | Messari
+- [DeFi Spotlight — Set Protocol](https://medium.com/coinmonks/defi-spotlight-set-protocol-57cfce196d38) | Danger Zhang
+- [Interview With Alex Soong - Co-founder of Set Protocol](https://blog.simpleid.xyz/interview-with-alex-soong-co-founder-of-set-protocol/) | SimpleID Blog
 
 ## Podcasts
 
@@ -125,6 +134,7 @@ A collection of tools, documents, articles, blog posts, interviews, and videos r
 
 ## Videos
 
+- [Under the Radar DeFi Tool? Token Sets=Bull Run GAINS!](https://www.youtube.com/watch?v=RpCR4U3NuTs&feature=youtu.be) - Chico Crypto (January 21st, 2020)
 - [DeFi Assemble London Meetup](https://www.youtube.com/watch?time_continue=63&amp;v=i_-ujemOF7Y) - Alex Soong at DeFi Summit London (September 11th, 2019)
 - [Set Protocol: DeFi Interoperability](https://youtu.be/95FgeE98vxQ) - Felix Feng at DeFi Summit Prague (November 20th, 2018)
 - [What&#39;s Scaling in DeFi Today](https://youtu.be/R3giErfN8i8) - Felix Feng at Ethereal Tel Aviv (September 15th, 2019)
